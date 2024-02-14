@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Dice helper/.idea/Dice helper.iml" filepath="$PROJECT_DIR$/../Dice helper/.idea/Dice helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../New folder/.idea/New folder.iml" filepath="$PROJECT_DIR$/../New folder/.idea/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section-1/.idea/Section-1.iml" filepath="$PROJECT_DIR$/../Section-1/.idea/Section-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section-1/TKY/.idea/TKY.iml" filepath="$PROJECT_DIR$/../Section-1/TKY/.idea/TKY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
