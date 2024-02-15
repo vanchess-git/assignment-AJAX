@@ -10,3 +10,9 @@ done in September - October of 2020
 ![Image of page before query](/screenshots/cap-1.JPG)
 ### After query
 ![Image of page after query](/screenshots/cap-2.JPG)
+<br>
+changes:
+<br>
+<br>
+changed the text in finnish to english. <br>
+changed the images in README to ones with english text only. <br>
